@@ -37,8 +37,6 @@ Built a model to detect credit card defaulters using ML techniques and deployed 
 
 ## 🌐 My Portfolio
 
-## 🌐 My Portfolio
-
 💼 **Crafted with curiosity, driven by data.**  
 A curated collection of my best work — from predictive models to powerful dashboards.
 
