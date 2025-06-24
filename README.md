@@ -1,23 +1,22 @@
 # 👋 Hey there!
 
 I'm **Shreyash Waralkar**, a Computer Engineering graduate from Bharati Vidyapeeth College of Engineering, Navi Mumbai.  
-🔍 Passionate about **Data Analysis**, **Machine Learning**, and solving real-world problems with data.  
+📊 Passionate about **Data Analysis**, **Machine Learning**, and turning raw data into meaningful insights.
 
-## 🚀 What I've Worked On
-- 🧠 **Credit Card Default Prediction** using Random Forest (81.88% accuracy)  
-- 📈 **Big Data Analysis** project with real-world insights  
-- 🧪 **Conjunctivitis Detection** using Deep Learning & Image Processing  
-- 💻 **Amazon Sales Dashboard** built with Power BI  
-- 👩‍⚕️ **PCOS Detection** using CNN
+## 🚀 Projects
+- 🏦 **Credit Card Default Prediction** — built a model to identify risky credit card applicants  
+- 📊 **Big Data Analysis Project** — analyzed large datasets to extract patterns and trends  
+- 👁️ **Conjunctivitis Detection** — used CNN to classify healthy vs infected eyes from images  
+- 📈 **Amazon Sales Dashboard** — visualized sales performance using Power BI  
+- 👩‍⚕️ **PCOS Detection** — applied deep learning to assist in early diagnosis using symptoms
 
-## 🛠️ Skills
-**Languages & Tools:** Python, Pandas, NumPy, Matplotlib, Scikit-Learn, Power BI, Flask, MongoDB  
-**Interests:** Data Visualization, BI Dashboards, Predictive Modeling
+## 🛠️ Tools & Tech
+**Python**, **Pandas**, **NumPy**, **Scikit-Learn**, **Flask**, **MongoDB**, **Power BI**, **Jupyter Notebook**
 
-## 🧑‍💻 Experience
-**ML Intern @ iNeuron.ai** (Dec 2023 – Mar 2024)  
-Worked on credit risk modeling, data cleaning, and model deployment using Flask & MongoDB.
+## 🧑‍💻 Internship
+**Machine Learning Intern – iNeuron.ai**  
+Worked on data preprocessing, model development, and deployment using Flask & MongoDB.
 
 ## 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/your-link) | [Portfolio](https://your-portfolio.com) *(if you have)*  
-Always open to learn, collaborate, and grow 🌱
+[LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/Shreyash67)  
+Always learning, always building 💡
