@@ -18,5 +18,5 @@ I'm **Shreyash Waralkar**, a Computer Engineering graduate from Bharati Vidyapee
 Worked on data preprocessing, model development, and deployment using Flask & MongoDB.
 
 ## 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/Shreyash67)  
+[LinkedIn](https://www.linkedin.com/in/shreyash-waralkar) | [GitHub](https://github.com/Shreyash67)  
 Always learning, always building 💡
