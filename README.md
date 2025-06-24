@@ -3,12 +3,12 @@
 📊 Turning raw data into meaningful insights through **Data Analysis**, **Machine Learning**, and **Deep Learning**.  
 Always exploring, always building — with a passion for solving real-world problems using code.
 
-
+<!--
 ## 🚀 Projects
 - 💎 **Gemstone Price Prediction** — analyzed features to predict market prices using ML  
 - 📈 **Amazon Sales Dashboard** — created interactive Power BI visuals for sales insights  
 - 👁️ **Conjunctivitis Detection** — built CNN model to classify healthy vs infected eyes 
-
+-->
 
 ## 🛠️ Tools & Tech
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -30,11 +30,11 @@ Built a model to detect credit card defaulters using ML techniques and deployed 
 
 <p>
   <a href="https://www.linkedin.com/in/shreyash-waralkar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="vertical-align:middle;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="" draggable="false"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/its_Shreyash61/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" style="vertical-align:middle;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" alt="" draggable="false"/>
   </a>
 </p>
 
@@ -43,5 +43,6 @@ Built a model to detect credit card defaulters using ML techniques and deployed 
 ## 🌐 My Portfolio
 
 👉 [Check out my portfolio](https://shreyash67.github.io/Shreyash_Portfolio/) — showcasing projects, skills, and more!
+
 
 
