@@ -28,21 +28,20 @@ Built a model to detect credit card defaulters using ML techniques and deployed 
 
 ## 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/shreyash-waralkar" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/its_Shreyash61/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/shreyash-waralkar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="vertical-align:middle;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/its_Shreyash61/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" style="vertical-align:middle;"/>
+  </a>
+</p>
 
 ---
 
 ## 🌐 My Portfolio
 
-🔗 Dive deeper into my work, projects, and journey at:  
-👉 [https://shreyash67.github.io/Shreyash_Portfolio/](https://shreyash67.github.io/Shreyash_Portfolio/)
+👉 [Check out my portfolio](https://shreyash67.github.io/Shreyash_Portfolio/) — showcasing projects, skills, and more!
 
 
-
-🚀 Eager to explore entry-level roles in Data Analytics, Machine Learning, or Deep Learning!
