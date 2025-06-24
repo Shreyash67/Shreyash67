@@ -19,9 +19,10 @@ Always exploring, always building — with a passion for solving real-world prob
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 
-## 🧑‍💻 Internship
+<!-- ## 🧑‍💻 Internship
 **Machine Learning Intern – iNeuron.ai**  
 Built a model to detect credit card defaulters using ML techniques and deployed it using Flask & MongoDB.
+-->
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-waralkar)  
