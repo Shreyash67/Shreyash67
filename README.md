@@ -3,10 +3,12 @@
 📊 Turning raw data into meaningful insights through **Data Analysis**, **Machine Learning**, and **Deep Learning**.  
 Always exploring, always building — with a passion for solving real-world problems using code.
 
+<!--
 ## 🚀 Projects
 - 💎 **Gemstone Price Prediction** — analyzed features to predict market prices using ML  
 - 📈 **Amazon Sales Dashboard** — created interactive Power BI visuals for sales insights  
-- 👁️ **Conjunctivitis Detection** — built CNN model to classify healthy vs infected eyes
+- 👁️ **Conjunctivitis Detection** — built CNN model to classify healthy vs infected eyes 
+-->
 
 ## 🛠️ Tools & Tech
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -26,22 +28,23 @@ Built a model to detect credit card defaulters using ML techniques and deployed 
 
 ## 📫 Let's Connect
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/shreyash-waralkar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-    <br>LinkedIn
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"><br>
+    <sub>LinkedIn</sub>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://shreyash67.github.io/Shreyash_Portfolio/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" />
-    <br>Portfolio
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="40"><br>
+    <sub>Portfolio</sub>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/its_Shreyash61/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" />
-    <br>Instagram
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40"><br>
+    <sub>Instagram</sub>
   </a>
-</p>
+</div>
+
 
 
 
