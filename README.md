@@ -1,4 +1,4 @@
-# 💼 Shreyash Waralkar
+# Shreyash Waralkar
 
 📊 Turning raw data into meaningful insights through **Data Analysis** & **Machine Learning**.  
 Always exploring, always building — with a passion for solving real-world problems using code.
