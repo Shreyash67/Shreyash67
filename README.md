@@ -1,6 +1,6 @@
-# Shreyash Waralkar
+# 💼 Shreyash Waralkar
 
-📊 Turning raw data into meaningful insights through **Data Analysis** & **Machine Learning**.  
+📊 Turning raw data into meaningful insights through **Data Analysis**, **Machine Learning**, and **Deep Learning**.  
 Always exploring, always building — with a passion for solving real-world problems using code.
 
 ## 🚀 Projects
@@ -16,13 +16,16 @@ Always exploring, always building — with a passion for solving real-world prob
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 
 ## 🧑‍💻 Internship
 **Machine Learning Intern – iNeuron.ai**  
 Built a model to detect credit card defaulters using ML techniques and deployed it using Flask & MongoDB.
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-waralkar)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-222?style=flat&logo=google-chrome&logoColor=white)](https://shreyash67.github.io/Shreyash_Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-waralkar)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-222?style=flat&logo=google-chrome&logoColor=white)](https://shreyash67.github.io/Shreyash_Portfolio/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/its_Shreyash61/)
 
-🚀 Eager to explore entry-level roles in Data Analytics or BI!
+🚀 Eager to explore entry-level roles in Data Analytics, Machine Learning, or Deep Learning!
