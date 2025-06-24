@@ -1,7 +1,7 @@
-# 👋 Hey there!
+# 💼 Shreyash Waralkar
 
-I'm **Shreyash Waralkar**, a 🎓 Computer Engineering graduate from Bharati Vidyapeeth College of Engineering, Navi Mumbai.  
-📊 Passionate about **Data Analysis**, **Machine Learning**, and turning data into decisions.
+📊 Turning raw data into meaningful insights through **Data Analysis** & **Machine Learning**.  
+Always exploring, always building — with a passion for solving real-world problems using code.
 
 ## 🚀 Projects
 - 💎 **Gemstone Price Prediction** — analyzed features to predict market prices using ML  
