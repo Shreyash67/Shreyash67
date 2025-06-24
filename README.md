@@ -26,17 +26,29 @@ Built a model to detect credit card defaulters using ML techniques and deployed 
 
 ## 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/shreyash-waralkar" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
-</a>
-&nbsp;&nbsp;
-<a href="https://shreyash67.github.io/Shreyash_Portfolio/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/domain.png" width="30" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/its_Shreyash61/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/shreyash-waralkar" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="border: none;" />
+        <br/>LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://shreyash67.github.io/Shreyash_Portfolio/" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/domain.png" width="40" style="border: none;" />
+        <br/>Portfolio
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/its_Shreyash61/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" style="border: none;" />
+        <br/>Instagram
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 🚀 Eager to explore entry-level roles in Data Analytics, Machine Learning, or Deep Learning!
