@@ -28,21 +28,16 @@ Built a model to detect credit card defaulters using ML techniques and deployed 
 
 ## 📫 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/shreyash-waralkar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="" draggable="false"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/its_Shreyash61/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" alt="" draggable="false"/>
-  </a>
-</p>
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/shreyash-waralkar)
+&nbsp;&nbsp;&nbsp;
+[![](https://cdn-icons-png.flaticon.com/512/174/174855.png)](https://www.instagram.com/its_Shreyash61/)
 
 ---
 
 ## 🌐 My Portfolio
 
 👉 [Check out my portfolio](https://shreyash67.github.io/Shreyash_Portfolio/) — showcasing projects, skills, and more!
+
 
 
 
