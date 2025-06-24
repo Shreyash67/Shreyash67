@@ -37,7 +37,11 @@ Built a model to detect credit card defaulters using ML techniques and deployed 
 
 ## 🌐 My Portfolio
 
-👉 [Check out my portfolio](https://shreyash67.github.io/Shreyash_Portfolio/) — showcasing projects, skills, and more!
+🚀 **Explore My Work**  
+Dive into my data projects, ML models, dashboards, and more — all in one place!
+
+🔗 [Click Here to Visit](https://shreyash67.github.io/Shreyash_Portfolio/)
+
 
 
 
